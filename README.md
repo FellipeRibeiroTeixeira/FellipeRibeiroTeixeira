@@ -6,4 +6,4 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felliperibeiroteixeira&layout=compact&hide_border=true&title_color=32CD32&text_color=32CD32&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=felliperibeiroteixeira&bg_color=030317&color=216f97&line=0a4f7b&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=felliperibeiroteixeira&bg_color=040c25&color=2c7ace&line=386894&point=71bafe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
